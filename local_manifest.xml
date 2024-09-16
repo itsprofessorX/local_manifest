@@ -11,6 +11,6 @@
  <project path="kernel/realme/r5x" name="kernel_realme_r5x" remote="org" revision="LA.UM.9.1" />
  
  <!--Vendor -->
- <project path="vendor/realme/r5x" name="vendor_realme_r5x" remote="org" revision="android-14" />
+ <project path="vendor/realme/r5x" name="vendor_realme_r5x" remote="org" revision="main" />
  
 </manifest>
