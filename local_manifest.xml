@@ -18,6 +18,6 @@
  <!--Vendor -->
  <project path="vendor/realme/r5x" name="vendor_realme_r5x" remote="org" revision="android-14" />
 
- <!--ViPER4AndroidFX -->
- <project path="ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="org" revision="v4a" />
+ <!-- Extras -->
+ <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="org" revision="v4a" />
 </manifest>
