@@ -10,14 +10,11 @@
             clone-depth="1" />
  
  <!--Tree -->
- <project path="device/realme/r5x" name="android_device_realme_r5x" remote="org" revision="Rising" />
+ <project path="device/realme/r5x" name="android_device_realme_r5x" remote="org" revision="R15" />
 
  <!--Kernel -->
  <project path="kernel/realme/r5x" name="biofrost_kernel_realme_sm6125" remote="clo" revision="KSU" />
  
  <!--Vendor -->
- <project path="vendor/realme/r5x" name="vendor_realme_r5x" remote="org" revision="android-14" />
-
- <!-- Extras -->
- <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="org" revision="v4a" />
+ <project path="vendor/realme/r5x" name="vendor_realme_r5x" remote="org" revision="android-15" />
 </manifest>
