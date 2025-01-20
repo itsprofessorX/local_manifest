@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+<!-- fetching sources -->      
+
+        <remote name="pro"
+                fetch="https://github.com/Amritorock" />
+        
+    
+<!-- device trees -->
+
+        <project path="device/realme/r5x" name="android_device_realme_r5x" remote="pro" revision="android-15" />
+        <project path="vendor/realme/r5x" name="vendor_realme_r5x" remote="pro" revision="android-15" />
+        <project path="kernel/realme/r5x" name="biofrost_kernel_realme_sm6125" remote="pro" revision="android-15" clone-depth="1" />
