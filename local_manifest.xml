@@ -4,11 +4,11 @@
 
 <!-- fetching sources -->      
 
-        <remote name="pro"
-                fetch="https://github.com/Amritorock" />
-
         <remote name="XO"
                 fetch="https://github.com/itsprofessorX" />
+
+        <remote name="pro"
+                fetch="https://github.com/Amritorock" />
           
 <!-- device trees -->
 
